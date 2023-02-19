@@ -4,6 +4,8 @@
 
 ![README's header](header.png)
 
-[![Instagram's icon](instagram-line.svg)](https://www.instagram.com/at3nas__/)
-[![Codepen's icon](codepen-line.svg)](https://codepen.io/at3nas)
-[![Behance's icon](behance-line.svg)](https://www.behance.net/at3nas)
+<div align="center">
+  <a href="https://www.instagram.com/at3nas__/"><img src="instagram-line.svg"><a/>
+  <a href="https://codepen.io/at3nas"><img src="codepen-line.svg"><a/>
+  <a href="https://www.behance.net/at3nas"><img src="behance-line.svg"><a/>
+</div>
