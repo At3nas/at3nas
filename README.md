@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/at3nas-profile.png" style="width: 200px" />
+  <img src="https://github.com/At3nas/at3nas/assets/97369170/3a132b9a-33ca-43f4-b385-775be8e0f042" style="width: 200px" />
 </p>
 
 <p align="center">
