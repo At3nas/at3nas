@@ -16,7 +16,6 @@ I'm Atenas, a sophomore student majoring in Programming. I mainly focus on Web D
   <img src="./assets/header-skills.png" style="width: 700px"  />
 </p>
 
-
 ![image](https://github.com/At3nas/at3nas/assets/97369170/562d943d-c6cf-43cf-b354-8c975fa6bb03)
 ![image](https://github.com/At3nas/at3nas/assets/97369170/189c31c7-aeda-40fc-bd26-b30aaa78340c)
 ![image](https://github.com/At3nas/at3nas/assets/97369170/be65a096-47fd-4dd4-a853-d53095dbcd00)
@@ -24,6 +23,10 @@ I'm Atenas, a sophomore student majoring in Programming. I mainly focus on Web D
 ![image](https://github.com/At3nas/at3nas/assets/97369170/4d4049c0-b742-4c59-8f0c-442f4a6d0898)
 ![image](https://github.com/At3nas/at3nas/assets/97369170/e3211f5a-7182-4851-a3ce-9945a4b397ee)
 ![image](https://github.com/At3nas/at3nas/assets/97369170/63c77f3c-9c01-4925-8200-c6bd2a12a89d)
+![image](https://github.com/At3nas/at3nas/assets/97369170/1112af35-c501-4fcd-9a16-ea0051b326c3)
+![image](https://github.com/At3nas/at3nas/assets/97369170/70c33067-7def-4425-a03e-5d4362769d86)
+![image](https://github.com/At3nas/at3nas/assets/97369170/0ee36b5c-eb35-493a-8ed1-19c0b2469664)
+
 
 
 
