@@ -8,4 +8,9 @@
 <p align="center">
   <img src="./assets/header-about-me.png" />
 </p>
-I'm Atenas, a sophomore student majoring in Programming. I mainly focus on Web Development, especially Front End Development, guided by my creative and artistic self. However, I do not     limit myself to these and I'm constantly expanding my knowledge in diverse technologies and programming languages.
+I'm Atenas, a sophomore student majoring in Programming. I mainly focus on Web Development, especially Front End Development, guided by my creative and artistic self. However, I do not     limit myself to these and I'm constantly expanding my knowledge in diverse technologies and programming languages.  
+
+<p align="center">
+  <img src="./assets/header-skills.png" />
+</p>
+![image](https://github.com/At3nas/at3nas/assets/97369170/d6007146-aeb0-48ce-8ff3-c4c654638a40)
