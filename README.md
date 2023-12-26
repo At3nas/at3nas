@@ -13,13 +13,13 @@
 
 <hr />
 <p align="center">
-  <img src="./assets/header-about-me.png" style="width: 700px" />
+  <img src="https://github.com/At3nas/at3nas/assets/97369170/665aa602-a938-4916-8961-a308bcd0681c" style="width: 700px" />
 </p>
 I'm Atenas, a sophomore student majoring in Programming. I mainly focus on Web Development, especially Front End Development, guided by my creative and artistic self. However, I do not limit myself to these and I'm constantly expanding my knowledge in diverse technologies and programming languages.  
 
 <hr />
 <p align="center">
-  <img src="./assets/header-skills.png" style="width: 700px"  />
+  <img src="https://github.com/At3nas/at3nas/assets/97369170/df0b6c60-e118-4858-ae6e-761d08b277e0" style="width: 700px"  />
 </p>
 
 ![image](https://github.com/At3nas/at3nas/assets/97369170/562d943d-c6cf-43cf-b354-8c975fa6bb03)
@@ -33,15 +33,7 @@ I'm Atenas, a sophomore student majoring in Programming. I mainly focus on Web D
 ![image](https://github.com/At3nas/at3nas/assets/97369170/70c33067-7def-4425-a03e-5d4362769d86)
 ![image](https://github.com/At3nas/at3nas/assets/97369170/0ee36b5c-eb35-493a-8ed1-19c0b2469664)
 
-
 ---
 Icons by <a href="https://icons8.com">Icons8 </a>
 
 Illustrations like the profile picture and pixelart are made by <a href="https://www.instagram.com/art3nas/">me</a>. Yes! I also do art :)
-
-
-
-
-
-
-
