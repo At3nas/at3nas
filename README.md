@@ -8,8 +8,8 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/atenas-perez/" target="_blank"> ![image](https://github.com/At3nas/at3nas/assets/97369170/4975a00d-b80a-4296-8bbf-b241249ae0b2) </a>
-<a href="https://www.instagram.com/at3nas__/" target="_blank"> ![image](https://github.com/At3nas/at3nas/assets/97369170/53d79640-247a-4d66-b785-6a89a580ad8f) </a>
+<a href="https://www.linkedin.com/in/atenas-perez/"> ![image](https://github.com/At3nas/at3nas/assets/97369170/4975a00d-b80a-4296-8bbf-b241249ae0b2) </a>
+<a href="https://www.instagram.com/at3nas__/"> ![image](https://github.com/At3nas/at3nas/assets/97369170/53d79640-247a-4d66-b785-6a89a580ad8f) </a>
 
 <hr />
 <p align="center">
@@ -35,9 +35,9 @@ I'm Atenas, a sophomore student majoring in Programming. I mainly focus on Web D
 
 
 ---
-Icons by <a href="https://icons8.com" target="_blank">Icons8 </a>
+Icons by <a href="https://icons8.com">Icons8 </a>
 
-Illustrations like the profile picture and pixelart are made by <a href="https://www.instagram.com/art3nas/" target="_blank">me</a>. Yes! I also do art :)
+Illustrations like the profile picture and pixelart are made by <a href="https://www.instagram.com/art3nas/">me</a>. Yes! I also do art :)
 
 
 
