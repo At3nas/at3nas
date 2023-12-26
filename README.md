@@ -1,9 +1,15 @@
 <p align="center">
   <img src="./assets/at3nas-profile.png" style="width: 200px" />
 </p>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&pause=1000&color=F1ACF2&random=false&width=435&lines=Hello!+My+name+is+Atenas"    alt="Typing SVG" style="width: 700px"  /></a>
 </p>
+
+<hr />
+
+<a href="https://www.linkedin.com/in/atenas-perez/"> ![image](https://github.com/At3nas/at3nas/assets/97369170/4975a00d-b80a-4296-8bbf-b241249ae0b2) </a>
+<a href="https://www.instagram.com/at3nas__/"> ![image](https://github.com/At3nas/at3nas/assets/97369170/53d79640-247a-4d66-b785-6a89a580ad8f) </a>
 
 <hr />
 <p align="center">
@@ -28,6 +34,8 @@ I'm Atenas, a sophomore student majoring in Programming. I mainly focus on Web D
 ![image](https://github.com/At3nas/at3nas/assets/97369170/0ee36b5c-eb35-493a-8ed1-19c0b2469664)
 
 
+---
+Icons by <a href="https://icons8.com">Icons8</a>
 
 
 
