@@ -35,7 +35,8 @@ I'm Atenas, a sophomore student majoring in Programming. I mainly focus on Web D
 
 
 ---
-Icons by <a href="https://icons8.com">Icons8</a>
+Icons by <a href="https://icons8.com">Icons8 </a>
+
 Illustrations like the profile picture and pixelart are made by me
 
 
